@@ -39,7 +39,7 @@
 ### 🛠️ Tools & Tech
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,c,wireshark,git,docker,kali" />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,Burpsuite,nmap,wireshark,git,docker,kali" />
 </p>
 
 ---
